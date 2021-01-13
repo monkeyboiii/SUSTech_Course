@@ -1,8 +1,8 @@
 {
 	"login_url": "https://cas.sustech.edu.cn/cas/login?service=https%3A%2F%2Ftis.sustech.edu.cn%2FcasLogin",
-	"username": "",
-	"password": "",
+	"username": "<xuehao>",
+	"password": "<miyue>",
 	"course_forms": [
-		"p_pylx=1&p_sfgldjr=0&p_sfredis=0&p_sfsyxkgwc=0&p_xktjz=rwtjzyx&p_chaxunxh=&p_gjz=%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98&p_skjs=&p_xn=2020-2021&p_xq=2&p_xnxq=2020-20212&p_dqxn=2020-2021&p_dqxq=2&p_dqxnxq=2020-20212&p_xkfsdm=kzyxk&p_xiaoqu=&p_kkyx=&p_xkxs=&p_id=B3B8FB81A1A810EDE053CA0412AC70A7&p_sfhlctkc=0&p_sfhllrlkc=0&p_kxsj_xqj=&p_kxsj_ksjc=&p_kxsj_jsjc=&p_kcdm_js=&p_kcdm_cxrw=&p_kc_gjz=&p_xzcxtjz_nj=&p_xzcxtjz_yx=&p_xzcxtjz_zy=&p_xzcxtjz_zyfx=&p_xzcxtjz_bj=&p_sfxsgwckb=1&p_skyy=&p_chaxunxkfsdm=&pageNum=1&pageSize=13"
+		"for demo purposes, plz delete p_pylx=1&p_sfgldjr=0&p_sfredis=0&p_sfsyxkgwc=0&p_xktjz=rwtjzyx&p_chaxunxh=&p_gjz=%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98&p_skjs=&p_xn=2020-2021&p_xq=2&p_xnxq=2020-20212&p_dqxn=2020-2021&p_dqxq=2&p_dqxnxq=2020-20212&p_xkfsdm=kzyxk&p_xiaoqu=&p_kkyx=&p_xkxs=&p_id=xxx&p_sfhlctkc=0&p_sfhllrlkc=0&p_kxsj_xqj=&p_kxsj_ksjc=&p_kxsj_jsjc=&p_kcdm_js=&p_kcdm_cxrw=&p_kc_gjz=&p_xzcxtjz_nj=&p_xzcxtjz_yx=&p_xzcxtjz_zy=&p_xzcxtjz_zyfx=&p_xzcxtjz_bj=&p_sfxsgwckb=1&p_skyy=&p_chaxunxkfsdm=&pageNum=1&pageSize=13"
 	]
 }
