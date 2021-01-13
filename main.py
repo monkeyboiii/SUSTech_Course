@@ -1,4 +1,4 @@
-from requests import Session, Request
+from requests import Session
 import random
 import time
 import json
@@ -39,14 +39,17 @@ def tisCourseCenter():
     
     forms = config['course_forms']
     tasks = len(forms)
-    succees = [False * tasks]
+    length = tasks
+    succees = [False] * tasks
     task = 0
     
     while tasks > 0:
         if not succees[task] and tisClick(forms[task]):
+            success[task] = True
             tasks = tasks - 1
+            print('选课成功')
         else:
-            task = (task + 1) % tasks
+            task = (task + 1) % length
         time.sleep(0.1 + random.random() / 5)
             
     
